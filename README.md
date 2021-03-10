@@ -1,5 +1,7 @@
 # PiThermometer
 A thermometer python project to be used with a raspberry pi
+Tutuorial for wiring and. setup found here:
+https://www.circuitbasics.com/raspberry-pi-ds18b20-temperature-sensor-tutorial/#:~:text=Raspberry%20Pi%20DS18B20%20Temperature%20Sensor%20Tutorial,-Posted%20by%20Scott&text=The%20DS18B20%20temperature%20sensor%20is,wire%20for%20the%20data%20signal.
 
 ### Setup
 #### Step 1
